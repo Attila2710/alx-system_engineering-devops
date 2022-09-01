@@ -1,2 +1,2 @@
 #!/bin/bash
-vim 0 string SCHOOL School data !:mine School
+0 string SCHOOL School data !:mine School
