@@ -1,2 +1,2 @@
 #!/bin/bas
-tail -n 1 iacta2
+tail -n 1 iacta >> iacta2
